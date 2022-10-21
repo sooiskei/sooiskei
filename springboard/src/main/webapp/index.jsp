@@ -4,6 +4,6 @@
     
 <script>
 //	location.href="test.do";
-	location.href="board_list.do";
+	 location.href="board_list.do";
 </script>    
     
